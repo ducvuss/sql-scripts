@@ -1,0 +1,21 @@
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Kuhn LLC','5590 Welch Point');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Quitzon Group','8 Golden Leaf Center');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Wintheiser','72066 Sullivan Plaza');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Russel-Mraz','700 Eagle Crest Road');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Schmeler-Weber','5 Granby Road');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Hermann','83791 Hooker Court');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Goodwin-Prosacco','018 Westerfield Circle');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Morissette','588 5th Hill');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Feeney','8 Schiller Drive');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Hartmann-Stamm','6694 Lerdahl Trail');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Howell LLC','4613 Lerdahl Avenue');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Jenkins Group','7745 Maple Wood Park');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Rempel','5 Bunker Hill Street');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Lind-Bayer','433 Reindahl Alley');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Macejkovic-Nader','33 Buhler Circle');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Buckridge','18 Sauthoff Pass');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Koelpin-Strosin','77 Chive Crossing');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Kilback LLC','13 Holy Cross Lane');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Marks and Sons','6 Packers Circle');
+INSERT INTO tbl_library_branch (branchName, branchAddress) values('Grant','19 4th Road');
+  

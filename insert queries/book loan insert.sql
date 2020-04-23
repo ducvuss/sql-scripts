@@ -1,0 +1,27 @@
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (2,8,35746845,'2020-03-06','2020-05-15','2020-06-18');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (3,2,56418223,'2020-03-10','2020-05-10','2020-06-16');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (4,5,44055141,'2020-02-20','2020-05-23','2020-06-14');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (5,4,35345067,'2020-02-07','2020-05-13','2020-05-30');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (6,3,35746845,'2020-04-11','2020-05-19','2020-05-17');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (7,3,56418223,'2020-02-20','2020-05-23',null);
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (8,2,35618849,'2020-02-20','2020-05-17','2020-06-22');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (9,20,35618849,'2019-01-20','2020-02-07','2020-04-05');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (10,16,35507722,'2020-04-20','2020-05-21','2020-05-20');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (11,15,35507722,'2020-04-21','2020-05-02','2020-04-27');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (12,14,35345067,'2020-03-06','2020-05-15','2020-06-18');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (13,13,35464848,'2020-03-22','2020-05-09','2020-05-23');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (14,11,35545631,'2019-01-20','2020-02-07','2020-04-05');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (15,3,37349259,'2020-04-03','2020-05-08','2020-06-22');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (16,4,49039283,'2019-01-21','2020-11-28','2020-05-21');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (17,7,35507722,'2019-01-21','2020-11-28',null);
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (18,5,35660094,'2019-12-08','2020-11-28',null);
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (19,6,35618268,'2019-11-02','2020-06-29','2020-05-29');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (20,5,35464848,'2020-02-25','2020-08-14','2020-03-17');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (21,4,35545631,'2020-03-24','2020-11-30','2019-07-15');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (22,2,37349259,'2020-02-25','2019-08-14','2020-03-17');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (23,20,49039283,'2019-12-08','2020-11-28',null);
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (24,2,35507722,'2019-01-20','2020-02-07','2020-04-05');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (25,2,35660094,'2020-02-17','2020-05-21','2020-05-21');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (26,12,35618268,'2019-01-20','2020-02-07','2020-04-05');
+INSERT INTO `library`.`tbl_book_loans` (`bookId`,`branchId`,`cardNo`,`dateOut`,`dueDate`,`dateIn`) VALUES (27,12,35464848,'2020-03-26','2020-05-24','2020-06-22');
+
